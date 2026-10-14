@@ -1,8 +1,9 @@
 [package]
 name = "csv2xlsx"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 
 [dependencies]
 csv = "1.3"
 rust_xlsxwriter = "0.79"
+spreadsheet-ods = "1.0"
